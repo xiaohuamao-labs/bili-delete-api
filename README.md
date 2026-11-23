@@ -30,7 +30,6 @@ B 站创作中心的「删除稿件」被人机验证（极验 v3）挡着，手
 ## 联系
 
 - 微信 / 闲鱼：`luguoxiaohuamao`
-- 站点：[zjcx.teai.cc](https://zjcx.teai.cc)
 
 ## 免责声明
 
